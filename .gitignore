@@ -1,10 +1,22 @@
+# Use https://github.com/github/gitignore for more gitignores
+
+
+# General
+.vscode
+.DS_Store
+.idea/
+
+##########################
+## Python
+##########################
+
+# C extensions
+*.so
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
-*.so
 
 # Distribution / packaging
 .Python
@@ -102,3 +114,75 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+##########################
+## IntelliJ
+##########################
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+##########################
+## Eclipse
+##########################
+.metadata
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+##########################
+## NetBeans
+##########################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+##########################
+## C++
+##########################
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
