@@ -2,6 +2,9 @@
 
 > This is a template repository used for creating side-projects
 
+[![GitHub license](https://img.shields.io/github/license/Bhupesh-V/sample-project)](https://github.com/Bhupesh-V/sample-project/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Bhupesh-V/sample-project?color=blueviolet)](https://github.com/Bhupesh-V/sample-project/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com) 
 ## Author
 
 :bust_in_silhouette: **Bhupesh Varshney**
