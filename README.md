@@ -30,7 +30,7 @@
 
 ## ☺️ Show your support
 
-Please ⭐️ this repository if this project helped you!
+Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FBhupesh-V%2Fsample-project%2F)](https://twitter.com/intent/tweet?url=https://github.com/Bhupesh-V/sample-project&text=sample-project%20via%20@bhupeshimself)
 
 <a href="https://www.patreon.com/bhupesh">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
