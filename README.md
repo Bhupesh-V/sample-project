@@ -39,7 +39,7 @@ Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL
 
 ## 📝 License
 
-Copyright © 2019 [Bhupesh Varshney](https://github.com/Bhupesh-V).<br />
+Copyright © 2020 [Bhupesh Varshney](https://github.com/Bhupesh-V).<br />
 This project is [MIT](https://github.com/Bhupesh-V/sample-project/blob/master/LICENSE) licensed.
 
 ## 👋 Contributing
