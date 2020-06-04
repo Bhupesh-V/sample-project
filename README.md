@@ -7,7 +7,6 @@
   <a href="https://github.com/Bhupesh-V/sample-project/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/Bhupesh-V/sample-project?color=blueviolet" />
   </a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Bhupesh-V/sample-project">
   <a href="">
     <img alt="Website Status" src="https://img.shields.io/website?down_color=red&down_message=down&up_color=darkgreen&up_message=up&url=https%3A%2F%2Fwebsite.com" />
   </a>
