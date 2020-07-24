@@ -23,6 +23,7 @@
 
 :bust_in_silhouette: **Bhupesh Varshney**
 
+- Web : [bhupesh.codes](https://bhupesh-v.github.io)
 - Twitter : [@bhupeshimself](https://twitter.com/bhupeshimself)
 - DEV : [bhupesh](https://dev.to/bhupesh)
 
