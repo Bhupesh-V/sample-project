@@ -11,7 +11,7 @@
     <img alt="Website Status" src="https://img.shields.io/website?down_color=red&down_message=down&up_color=darkgreen&up_message=up&url=https%3A%2F%2Fwebsite.com" />
   </a>
   <a href="https://twitter.com/bhupeshimself">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/bhupeshimself.svg?style=social" target="_blank" />
+    <img alt="Twitter: bhupeshimself" src="https://img.shields.io/twitter/follow/bhupeshimself.svg?style=social" target="_blank" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 :bust_in_silhouette: **Bhupesh Varshney**
 
-- Web : [bhupesh.codes](https://bhupesh-v.github.io)
+- Web : [bhupesh-v.github.io](https://bhupesh-v.github.io)
 - Twitter : [@bhupeshimself](https://twitter.com/bhupeshimself)
 - DEV : [bhupesh](https://dev.to/bhupesh)
 
@@ -31,11 +31,15 @@
 
 ## ☺️ Show your support
 
-Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FBhupesh-V%2Fsample-project%2F)](https://twitter.com/intent/tweet?url=https://github.com/Bhupesh-V/sample-project&text=sample-project%20via%20@bhupeshimself)
+Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FBhupesh-V%2Ftil%2F)](https://twitter.com/intent/tweet?url=https://github.com/Bhupesh-V/til&text=til%20via%20@bhupeshimself)
 
-<a href="https://www.patreon.com/bhupesh">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+<a href="https://liberapay.com/bhupesh/donate">
+  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" width="100">
 </a>
+<a href="https://ko-fi.com/bhupesh">
+  <img title="ko-fi/bhupesh" alt="Support on ko-fi" src="https://user-images.githubusercontent.com/34342551/88784787-12507980-d1ae-11ea-82fe-f55753340168.png" width="185">
+</a>
+
 
 ## 📝 License
 
